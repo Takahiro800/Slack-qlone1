@@ -2,6 +2,26 @@
  <div class="chats-container">
    <message />
    <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+   <message />
+
  </div>
 </template>
 
