@@ -1,16 +1,17 @@
 <template>
-  <div class="container">
-  </div>
+ <div class="container">
+   <messages />
+ </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import Messages from '~/components/Messages.vue'
 
 export default {
-  components: {
-  }
+ components: {
+   Messages
+ }
 }
 </script>
-
 <style>
 </style>
