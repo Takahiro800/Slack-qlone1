@@ -4,7 +4,7 @@
      <messages />
    </div>
    <div class="input-layout">
-
+     <chat-form />>
    </div>
  </div>
 </template>
