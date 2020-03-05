@@ -3,7 +3,7 @@
     <div class = "sidebar">
       <p>チャンネル一覧</p>
       <p v-for="channel in channels">
-        <nuxt-link :to="`channels/${channel.id}`">{{ channel.name }}</nuxt-link>
+        <nuxt-link :to="`/channels/${channel.id}`">{{ channel.name }}</nuxt-link>
       </p>
       <p></p>
     </div>
